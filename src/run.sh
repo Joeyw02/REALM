@@ -1,1 +1,1 @@
-python main.py --dataset nfc --model google/flan-t5-large --order bm25
+python main.py --dataset dl19 --model google/flan-t5-large --order bm25
